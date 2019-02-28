@@ -2,6 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Download this APP using
+
+## `$ git clone https://github.com/sydon1508/MovieList.git`
+
+### -------
+
 Steps for running the app:
 
 1. In the project directory, you can run:
