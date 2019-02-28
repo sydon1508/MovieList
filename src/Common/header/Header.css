@@ -1,0 +1,9 @@
+.Header {
+  background: #0f273d;
+  text-align: left;
+  padding: 10px 0;
+}
+
+.Header-logo {
+  max-width: 55px;
+}

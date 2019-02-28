@@ -1,0 +1,56 @@
+.container .listHolder {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0 -10px;
+}
+
+.movie-holder {
+  padding: 10px 10px;
+  position: relative;
+  margin: 10px 0;
+}
+
+.movie-holder img {
+  width: 100%;
+}
+
+.movie-holder p {
+  margin: 5px 0;
+  font-weight: normal;
+}
+
+.movie-holder .votes {
+  position: absolute;
+  background: yellow;
+  z-index: 20;
+  color: black;
+  border-radius: 50%;
+  width: 30px;
+  display: inline-block;
+  line-height: 30px;
+  text-align: center;
+  font-weight: bold;
+  top: 20px;
+  right: 0px;
+}
+
+.loading-container {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.selectHolder {
+  margin: 15px 0;
+}
+.selectHolder select {
+  width: 200px;
+  padding: 4px 5px;
+  margin-left: 20px;
+  border: 1px solid #0f273d;
+}
+.genreHolder span {
+  font-size: 12px;
+  margin-right: 10px;
+  color: #888787;
+  display: inline-block;
+}
